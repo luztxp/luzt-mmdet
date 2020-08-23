@@ -34,6 +34,8 @@ my mmdet
 ### 模型融合
 - [x] 加权平均
 - [x] 软加权平均
+
+
 hilens
 链接：https://pan.baidu.com/s/1snwYMBTatRs1lX-af1xzKg 
 提取码：s21b
